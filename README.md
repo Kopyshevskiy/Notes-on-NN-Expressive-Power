@@ -2,8 +2,6 @@
 
 This repository contains a set of LaTeX notes on the theoretical foundations of neural networks. The notes cover key concepts such as the Universal Approximation Theorem, the role of activation functions, and the complexity of shallow vs. deep networks.
 
-The content is compiled from the theoretical sections of a Jupyter Notebook and aims to provide a clear, self-contained document for study and reference.
-
 ## Key Topics Covered
 
 - **Sigmoidal and Discriminatory Functions**: Formal definitions and their importance as activation functions.
